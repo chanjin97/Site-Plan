@@ -1,0 +1,8 @@
+node.js 설치했고
+
+npm init
+npm i express
+npm i -D nodemon
+
+.gitignore
+- 파일에 git hub에 올리지않겠다 라는 파일이름을 넣으면됨
